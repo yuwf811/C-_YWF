@@ -1,0 +1,10 @@
+D:\Git Files\Repository_YWF\YTools\MSSQLTool\bin\Debug\MSSQLTool.dll
+D:\Git Files\Repository_YWF\YTools\MSSQLTool\bin\Debug\MSSQLTool.pdb
+D:\Git Files\Repository_YWF\YTools\MSSQLTool\obj\Debug\MSSQLTool.csprojResolveAssemblyReference.cache
+D:\Git Files\Repository_YWF\YTools\MSSQLTool\obj\Debug\MSSQLTool.dll
+D:\Git Files\Repository_YWF\YTools\MSSQLTool\obj\Debug\MSSQLTool.pdb
+D:\Coding\Github\YTools\MSSQLTool\bin\Debug\MSSQLTool.dll
+D:\Coding\Github\YTools\MSSQLTool\bin\Debug\MSSQLTool.pdb
+D:\Coding\Github\YTools\MSSQLTool\obj\Debug\MSSQLTool.csprojResolveAssemblyReference.cache
+D:\Coding\Github\YTools\MSSQLTool\obj\Debug\MSSQLTool.dll
+D:\Coding\Github\YTools\MSSQLTool\obj\Debug\MSSQLTool.pdb

@@ -1,0 +1,14 @@
+{
+    "defaultAssembly": "Models",
+    "components": [
+        {
+            "type": "Models.Dog",
+            "services": [
+                {
+                    "type": "Models.IAnimal"
+                }
+            ],
+            "injectProperties": true
+        }
+    ]
+}

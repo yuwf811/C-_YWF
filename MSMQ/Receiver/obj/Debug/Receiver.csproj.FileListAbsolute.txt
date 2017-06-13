@@ -1,0 +1,6 @@
+E:\Git Files\Repository_YWF\MSMQ\Receiver\bin\Debug\Receiver.exe.config
+E:\Git Files\Repository_YWF\MSMQ\Receiver\bin\Debug\Receiver.exe
+E:\Git Files\Repository_YWF\MSMQ\Receiver\bin\Debug\Receiver.pdb
+E:\Git Files\Repository_YWF\MSMQ\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache
+E:\Git Files\Repository_YWF\MSMQ\Receiver\obj\Debug\Receiver.exe
+E:\Git Files\Repository_YWF\MSMQ\Receiver\obj\Debug\Receiver.pdb

@@ -1,0 +1,11 @@
+E:\Git Files\Repository_YWF\IOC\Logics\obj\Debug\Logics.csprojResolveAssemblyReference.cache
+E:\Git Files\Repository_YWF\IOC\Logics\bin\Debug\Logics.dll
+E:\Git Files\Repository_YWF\IOC\Logics\bin\Debug\Logics.pdb
+E:\Git Files\Repository_YWF\IOC\Logics\bin\Debug\Autofac.dll
+E:\Git Files\Repository_YWF\IOC\Logics\bin\Debug\Models.dll
+E:\Git Files\Repository_YWF\IOC\Logics\bin\Debug\Models.pdb
+E:\Git Files\Repository_YWF\IOC\Logics\bin\Debug\Autofac.xml
+E:\Git Files\Repository_YWF\IOC\Logics\obj\Debug\Logics.dll
+E:\Git Files\Repository_YWF\IOC\Logics\obj\Debug\Logics.pdb
+D:\Git Files\Repository_YWF\IOC\Logics\obj\Debug\Logics.csprojResolveAssemblyReference.cache
+D:\Git Files\Repository_YWF\IOC\Logics\obj\Debug\Logics.dll

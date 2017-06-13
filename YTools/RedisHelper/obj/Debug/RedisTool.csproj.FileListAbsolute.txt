@@ -1,0 +1,24 @@
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\RedisHelper.dll
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\RedisHelper.pdb
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\ServiceStack.Common.dll
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\ServiceStack.Interfaces.dll
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\ServiceStack.Redis.dll
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\ServiceStack.Text.dll
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\ServiceStack.Common.xml
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\ServiceStack.Redis.xml
+D:\Git Files\Repository_YWF\YTools\RedisHelper\bin\Debug\ServiceStack.Text.xml
+D:\Git Files\Repository_YWF\YTools\RedisHelper\obj\Debug\RedisHelper.dll
+D:\Git Files\Repository_YWF\YTools\RedisHelper\obj\Debug\RedisHelper.pdb
+D:\Git Files\Repository_YWF\YTools\RedisHelper\obj\Debug\RedisTool.csprojResolveAssemblyReference.cache
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\RedisHelper.dll
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\RedisHelper.pdb
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\ServiceStack.Common.dll
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\ServiceStack.Interfaces.dll
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\ServiceStack.Redis.dll
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\ServiceStack.Text.dll
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\ServiceStack.Common.xml
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\ServiceStack.Redis.xml
+D:\Coding\Github\YTools\RedisHelper\bin\Debug\ServiceStack.Text.xml
+D:\Coding\Github\YTools\RedisHelper\obj\Debug\RedisTool.csprojResolveAssemblyReference.cache
+D:\Coding\Github\YTools\RedisHelper\obj\Debug\RedisHelper.dll
+D:\Coding\Github\YTools\RedisHelper\obj\Debug\RedisHelper.pdb

@@ -1,0 +1,10 @@
+D:\Git Files\Repository_YWF\YTools\SortAlgorithm\bin\Debug\SortAlgorithm.dll
+D:\Git Files\Repository_YWF\YTools\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+D:\Git Files\Repository_YWF\YTools\SortAlgorithm\obj\Debug\SortAlgorithm.csprojResolveAssemblyReference.cache
+D:\Git Files\Repository_YWF\YTools\SortAlgorithm\obj\Debug\SortAlgorithm.dll
+D:\Git Files\Repository_YWF\YTools\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
+D:\Coding\Github\YTools\SortAlgorithm\bin\Debug\SortAlgorithm.dll
+D:\Coding\Github\YTools\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+D:\Coding\Github\YTools\SortAlgorithm\obj\Debug\SortAlgorithm.csprojResolveAssemblyReference.cache
+D:\Coding\Github\YTools\SortAlgorithm\obj\Debug\SortAlgorithm.dll
+D:\Coding\Github\YTools\SortAlgorithm\obj\Debug\SortAlgorithm.pdb

@@ -1,0 +1,10 @@
+E:\Git Files\Repository_YWF\IOC\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Git Files\Repository_YWF\IOC\Models\bin\Debug\Models.dll
+E:\Git Files\Repository_YWF\IOC\Models\bin\Debug\Models.pdb
+E:\Git Files\Repository_YWF\IOC\Models\obj\Debug\Models.dll
+E:\Git Files\Repository_YWF\IOC\Models\obj\Debug\Models.pdb
+D:\Git Files\Repository_YWF\IOC\Models\bin\Debug\Models.dll
+D:\Git Files\Repository_YWF\IOC\Models\bin\Debug\Models.pdb
+D:\Git Files\Repository_YWF\IOC\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Git Files\Repository_YWF\IOC\Models\obj\Debug\Models.dll
+D:\Git Files\Repository_YWF\IOC\Models\obj\Debug\Models.pdb

@@ -1,0 +1,1 @@
+D:\Git Files\Repository_YWF\YTools\RedisHelper\obj\Debug\RedisHelper.csprojResolveAssemblyReference.cache

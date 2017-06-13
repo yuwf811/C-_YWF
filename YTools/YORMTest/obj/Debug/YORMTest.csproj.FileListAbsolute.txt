@@ -1,0 +1,54 @@
+D:\Git Files\Repository_YWF\YTools\YORMTest\obj\Debug\YORMTest.csprojResolveAssemblyReference.cache
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\YORMTest.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\YORMTest.pdb
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\YOrm.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\Autofac.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\Newtonsoft.Json.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\YOrm.pdb
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\Autofac.xml
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\Newtonsoft.Json.xml
+D:\Git Files\Repository_YWF\YTools\YORMTest\obj\Debug\YORMTest.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\obj\Debug\YORMTest.pdb
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\YORMTest.dll.config
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\SortAlgorithm.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\SortAlgorithm.pdb
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\MSSQLTool.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\MSSQLTool.pdb
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\RedisHelper.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\ServiceStack.Redis.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\ServiceStack.Interfaces.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\ServiceStack.Text.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\ServiceStack.Common.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\RedisHelper.pdb
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\ServiceStack.Redis.xml
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\ServiceStack.Text.xml
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\ServiceStack.Common.xml
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\HashAlgorithm.dll
+D:\Git Files\Repository_YWF\YTools\YORMTest\bin\Debug\HashAlgorithm.pdb
+D:\Coding\Github\YTools\YORMTest\bin\Debug\YORMTest.dll.config
+D:\Coding\Github\YTools\YORMTest\bin\Debug\YORMTest.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\YORMTest.pdb
+D:\Coding\Github\YTools\YORMTest\bin\Debug\HashAlgorithm.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\MSSQLTool.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\RedisHelper.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\SortAlgorithm.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\YOrm.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\ServiceStack.Redis.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\ServiceStack.Interfaces.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\Autofac.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\Newtonsoft.Json.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\ServiceStack.Text.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\ServiceStack.Common.dll
+D:\Coding\Github\YTools\YORMTest\bin\Debug\HashAlgorithm.pdb
+D:\Coding\Github\YTools\YORMTest\bin\Debug\MSSQLTool.pdb
+D:\Coding\Github\YTools\YORMTest\bin\Debug\RedisHelper.pdb
+D:\Coding\Github\YTools\YORMTest\bin\Debug\SortAlgorithm.pdb
+D:\Coding\Github\YTools\YORMTest\bin\Debug\YOrm.pdb
+D:\Coding\Github\YTools\YORMTest\bin\Debug\ServiceStack.Redis.xml
+D:\Coding\Github\YTools\YORMTest\bin\Debug\Autofac.xml
+D:\Coding\Github\YTools\YORMTest\bin\Debug\Newtonsoft.Json.xml
+D:\Coding\Github\YTools\YORMTest\bin\Debug\ServiceStack.Text.xml
+D:\Coding\Github\YTools\YORMTest\bin\Debug\ServiceStack.Common.xml
+D:\Coding\Github\YTools\YORMTest\obj\Debug\YORMTest.csprojResolveAssemblyReference.cache
+D:\Coding\Github\YTools\YORMTest\obj\Debug\YORMTest.dll
+D:\Coding\Github\YTools\YORMTest\obj\Debug\YORMTest.pdb

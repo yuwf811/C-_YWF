@@ -1,0 +1,18 @@
+D:\Git Files\Repository_YWF\YTools\YOrm\bin\Debug\YOrm.dll
+D:\Git Files\Repository_YWF\YTools\YOrm\bin\Debug\YOrm.pdb
+D:\Git Files\Repository_YWF\YTools\YOrm\bin\Debug\Autofac.dll
+D:\Git Files\Repository_YWF\YTools\YOrm\bin\Debug\Newtonsoft.Json.dll
+D:\Git Files\Repository_YWF\YTools\YOrm\bin\Debug\Autofac.xml
+D:\Git Files\Repository_YWF\YTools\YOrm\bin\Debug\Newtonsoft.Json.xml
+D:\Git Files\Repository_YWF\YTools\YOrm\obj\Debug\YOrm.csprojResolveAssemblyReference.cache
+D:\Git Files\Repository_YWF\YTools\YOrm\obj\Debug\YOrm.dll
+D:\Git Files\Repository_YWF\YTools\YOrm\obj\Debug\YOrm.pdb
+D:\Coding\Github\YTools\YOrm\bin\Debug\YOrm.dll
+D:\Coding\Github\YTools\YOrm\bin\Debug\YOrm.pdb
+D:\Coding\Github\YTools\YOrm\bin\Debug\Autofac.dll
+D:\Coding\Github\YTools\YOrm\bin\Debug\Newtonsoft.Json.dll
+D:\Coding\Github\YTools\YOrm\bin\Debug\Autofac.xml
+D:\Coding\Github\YTools\YOrm\bin\Debug\Newtonsoft.Json.xml
+D:\Coding\Github\YTools\YOrm\obj\Debug\YORM.csprojResolveAssemblyReference.cache
+D:\Coding\Github\YTools\YOrm\obj\Debug\YOrm.dll
+D:\Coding\Github\YTools\YOrm\obj\Debug\YOrm.pdb
